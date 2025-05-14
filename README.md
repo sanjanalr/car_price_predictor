@@ -17,4 +17,3 @@ This project predicts the price of used cars using a machine learning model trai
 - Web application for user input and price prediction
 - Dark-themed modern UI (customized from the original tutorial)
 
-### 📁 Project Structure
